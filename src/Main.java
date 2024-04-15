@@ -1,5 +1,7 @@
 import java.text.NumberFormat;
 
+// My Lab_3
+
 public class Main {
     public static void main(String[] args) {
         final NumberFormat nf = NumberFormat.getInstance();
