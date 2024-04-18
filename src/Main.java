@@ -1,6 +1,6 @@
 import java.text.NumberFormat;
 
-// My Lab_3
+// My Lab_3 edited 1
 
 public class Main {
     public static void main(String[] args) {
